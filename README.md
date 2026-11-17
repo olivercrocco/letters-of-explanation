@@ -4,7 +4,7 @@ A free tool for formerly incarcerated individuals to write a letter about their 
 
 Try it at https://olivercrocco.com/letters-of-explanation/, or download `letters-of-explanation.html` and open it in any browser. The single file works without the internet, so it can be shared on a USB drive or used on a laptop in a classroom.
 
-It was built for a pre-release employment skills course in Louisiana and is part of the [Reentry Toolkit](https://olivercrocco.com/reentry/), with the [Reentry Resume Builder](https://github.com/olivercrocco/reentry-resume-builder), [Interview Practice](https://github.com/olivercrocco/interview-practice), and [First Paycheck](https://github.com/olivercrocco/first-paycheck). Nothing in it is specific to Louisiana.
+It was built for an employment skills course in a Louisiana reentry bridge program for people in their first year after release, and is part of the [Reentry Toolkit](https://olivercrocco.com/reentry/), with the [Reentry Resume Builder](https://github.com/olivercrocco/reentry-resume-builder), [Interview Practice](https://github.com/olivercrocco/interview-practice), and [First Paycheck](https://github.com/olivercrocco/first-paycheck). Nothing in it is specific to Louisiana.
 
 ## What it does
 
